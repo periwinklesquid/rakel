@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 from exercise import return_string, divides_by, even_numbers
 #from cheat_sheet import return_string, divides_by, even_numbers #uncomment this line if you want to cheet
 from random import randint
